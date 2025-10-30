@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there!<br>I’m a tech enthusiast who enjoys reading, programming, and solving digital problems. I’m passionate about creating efficient, clean, and creative solutions to real-world challenges.<br>When I’m not coding, you’ll probably find me at the gym or diving into a good book.
-sz
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raphiniel-murwira-21911027b/) 
